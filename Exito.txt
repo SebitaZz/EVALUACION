@@ -1,1 +1,2 @@
 Pasar las evalucaiones
+ALEGRIA, TRISTEZA, MIEDO, FURIA, REPUDIO
